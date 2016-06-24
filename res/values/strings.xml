@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Scan Data!</string>
+    <string name="app_name">扫描测试程序</string>
+    <string name="scanner">扫描头</string>
+    <string name="base_bar">基准条码</string>
+    <string name="hint_scan_base_code">请按扫描键扫描基准条码</string>
+    <string name="test_total">测试扫描总次数</string>
+    <string name="scan_interval">扫描时间间隔</string>
+    <string name="hint_input_interval">请输入间隔毫秒数(>=100)</string>
+    <string name="start_test">开始测试</string>
+    <string name="stop_test">停止测试</string>
+    <string name="current_bar">当前扫描的条码</string>
+    <string name="test_result">测试结果</string>
+    <string name="wrong_code_list">错误条码列表</string>
+    <string name="single_scan">单扫</string>
+    <string name="continue_scan">连扫</string>
+    <string name="clear_zero">清零</string>
+    <string name="pressed_0">pressed:0</string>
+    <string name="scanned_0">scanned:0</string>
+    <string name="auto_scan_test">自动扫描</string>
+    <string name="scan_sound">扫描音</string>
+</resources>
